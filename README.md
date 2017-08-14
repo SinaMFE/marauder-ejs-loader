@@ -8,7 +8,7 @@
  yarn add marauder-ejs-loader
 ```
 
-在webpack配置中的loader中设置如下代码
+在 webpack 配置中添加 loader
 
 ```
 {
