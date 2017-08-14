@@ -1,0 +1,25 @@
+{
+  "name": "marauder-ejs-loader",
+  "version": "1.0.0",
+  "description": "ejs template precompile for webpack plugin",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "keywords": ["ejs", "template", "precompile", "webpack", "plugin"],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SinaMFE/marauder-ejs-loader.git"
+  },
+  "contributors": [
+    {
+      "name": "fengwan",
+      "email": "fengwan@staff.sina.com.cn"
+    },
+    {
+      "name": "Vincent",
+      "email": "vv314@foxmail.com"
+    }
+  ]
+}
